@@ -1,3 +1,5 @@
+//note : this is from php , we can do it from js too
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -95,3 +97,5 @@
     ?>
 </body>
 </html>
+
+
